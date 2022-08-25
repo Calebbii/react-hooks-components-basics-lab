@@ -35,6 +35,7 @@ function App() {
       <About />
     </div>
   );
+  
 }
 
 export default App;
